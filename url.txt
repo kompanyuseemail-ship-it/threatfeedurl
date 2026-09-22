@@ -1,2 +1,2 @@
 firewall.cx
-https://firewall.cx
+
